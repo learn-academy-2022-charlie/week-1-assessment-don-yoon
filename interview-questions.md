@@ -16,16 +16,26 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 1. What is git? What is the difference between git and Github?
 
   Your answer:
+  
+  - Git is the version control software used to retrieve and share data from Github which is a centralized "hub" for storing information. Multiple individuals can then use the stored information to make the necessary edits before merging into a single unified repository. This allows many individuals to work on changes while keeping a stable version for backup.
 
   Researched answer:
 
-
+  - Github sometimes gets confused with Git. GitHub is an internet hosting platform for software devlopments and uses Git for version control. Version control is used to manage what changes are made to large bodies of information. Where a single change can cause irreperable damage, each change would be monitored to before being allowed to merge with the actual product. This process has been done already many times to great effect while at Learn, allowing us as students to make mistakes on our own branches without damaging other students' files. GitHub offers many features useful for collaborating between many people such as bug tracking and management of tasks.
+  <!--https://en.wikipedia.org/wiki/GitHub-->
+  <!--https://en.wikipedia.org/wiki/Git-->
+  
 
 2. Which JavaScript operators will return a Boolean value?
 
   Your answer:
 
+  - Many operators return a Boolean value, which is simply true or false. Logical operators such as && and ||, relational operators such as > greater than, < less than, and === strict equality all return Boolean values. In turn, I have used these results to create decision trees when creating conditional statements. True or false ouputs make it easy to quickly make many simple decision.
+
   Researched answer:
+
+  - As mentioned above, logical and relational operators give boolean values. When these operators are used with data, the become what are known as Boolean expressions. When evaluated these expressions give a Boolean value. An example of this can be seen very commonly in conditional statments. When using these operators, we create a Boolean expression that will be evaulted in the conditional statement which will allow us to execute the desired codeblock depending on which condition was fulfilled.
+
 
 
 
@@ -33,9 +43,11 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   Your answer:
 
+  - An index is a representation of the location of the value in a certain piece of data. The index will start at 0 and will end at one less than the length of the given piece of data. We have used this in class for both strings and arrays. When used for strings, it is referring to a character within the string. When used for an array, it is referring to an element in the array.
+
   Researched answer:
 
-
+  - 
 
 4. What is iteration?
 
