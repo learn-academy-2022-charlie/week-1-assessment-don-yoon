@@ -98,3 +98,4 @@ const dataTypes = ["number", "string", "Boolean"]
 // The console will log what data type the .length method will output which is a number.
 // b) Verify and explain:
 // The log shows "number". dataTypes.length will output the number 3. When typeof is used on 3, it will output what the data type is.
+ 

@@ -29,7 +29,7 @@ const longerFruitName = (firstFruit, secondFruit) => {
         return "Strings are same length"
     }
 }
-
+ 
 //To invoke the function, the correct syntax is longerFruitName(fruit1, fruit2) etc...
 //when using a variable, ensure data type is a string. If using actual fruit name strings (shown in example 3), ensure that data type is also a string.
 //Input: fruit1, fruit2 ==> Output: "banana"

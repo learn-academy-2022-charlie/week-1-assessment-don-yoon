@@ -12,7 +12,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
   Researched answer:
 
 
-
+ 
 1. What is git? What is the difference between git and Github?
 
   Your answer:
