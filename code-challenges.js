@@ -18,7 +18,7 @@ const fruit4 = "kiwi"
 
 //Start with function declaration (longerFruitName) with two parameters (firstFruit, secondFruit)
 const longerFruitName = (firstFruit, secondFruit) => {
-    //This step check the length of the string in const fruit1 to length of string in const fruit2. If the length of fruit1 is longer, it will return the firstFruit length
+    //This step checks the length of the string in const fruit1 to the length of string in const fruit2. If the length of fruit1 is longer, it will return the firstFruit length
     if (firstFruit.length > secondFruit.length) {
         return firstFruit
     //This next step checks the opposite condition and will return the argument passed to secondFruit    
@@ -31,7 +31,7 @@ const longerFruitName = (firstFruit, secondFruit) => {
 }
 
 //To invoke the function, the correct syntax is longerFruitName(fruit1, fruit2) etc...
-//when using a variable, ensure data type is string. If using actual fruit name strings (shown in example 3), ensure that data type is also string.
+//when using a variable, ensure data type is a string. If using actual fruit name strings (shown in example 3), ensure that data type is also a string.
 //Input: fruit1, fruit2 ==> Output: "banana"
 console.log(longerFruitName(fruit1, fruit2))
 //Input: fruit3, fruit4 ==> Output: "cherry"
